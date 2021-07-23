@@ -2,10 +2,15 @@
 
 /*:root -> 获取根元素html*/
 :root {
+  /* 文字颜色 */
   --color-text: #666;
+  /* 文字高亮颜色 */
   --color-high-text: #ff5777;
+  /* 导航栏背景颜色 */
   --color-tint: #ff8198;
+  /* 背景颜色 */
   --color-background: #fff;
+  /* 整体字体颜色 */
   --font-size: 14px;
   --line-height: 1.5;
 }
